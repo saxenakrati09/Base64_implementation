@@ -19,9 +19,9 @@ input.txt has text "Hello World"
 - python index.py -i input.txt -o output.txt
 - cat output.txt
 
-SGVsbG8gd29ybGQK
+output -> SGVsbG8gd29ybGQK
 
 - python index.py -i output.txt -o revert.txt
 - cat revert.txt
 
-Hello World
+output -> Hello World
